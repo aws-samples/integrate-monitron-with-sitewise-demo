@@ -31,7 +31,7 @@ Before you begin, ensure that you have the following prerequisites:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/aws-samples/integrate-monitron-with-sitewise-demo.git
+git clone git@github.com:aws-samples/integrate-monitron-with-sitewise-demo.git
 ```
 
 2. Change into the project directory:
